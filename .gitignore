@@ -1,0 +1,11 @@
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+
+# Build/temp outputs
+build/
+out/
+bin/
